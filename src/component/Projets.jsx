@@ -1,7 +1,10 @@
-// Ajoute tes projets de cours ici
+
 const projets = [
-  { nom: 'Portfolio React', texte: 'Ce site, fait avec des composants React.', lien: 'https://github.com/AngelAlejandroMG' },
+  { nom: 'Portfolio React', texte: 'Ce site, fait avec des composants React.', lien: 'https://github.com/AngelAlejandroMG/Portfolio.git' },
   { nom: 'Pokédex', texte: 'Liste de Pokémon avec filtre, grâce à PokéAPI.', lien: '#pokemon' },
+  { nom: 'BE-AdoptMyPokemon', texte: 'Application web pour adopter des pokemons BE (Travail en equipe)', lien: 'https://github.com/Milleboy2007/Adopt_My_Pokemon' },
+  { nom: 'FE-AdoptMyPokemon', texte: 'Application web pour adopter des pokemons FE (Travail en equipe)', lien: 'https://github.com/Milleboy2007/Adopt_My_Pokemon_FrontEnd'},
+  { nom: 'CineTrack', texte: 'Application de streaming de anime (Travail en equipe)', lien: 'https://github.com/WilliamGirouard/CineTrack'}
 ];
 
 function Projets() {

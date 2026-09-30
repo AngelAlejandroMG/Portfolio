@@ -98,6 +98,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 80px; }
   border: 2px solid #3f7a55;
   border-radius: 12px;
   padding: 16px;
+
 }
 .projet:hover { border-color: #e0a93b; }
 .projet p { margin: 0; }
