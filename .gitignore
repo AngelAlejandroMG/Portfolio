@@ -1,0 +1,39 @@
+# Dépendances
+/node_modules
+/.pnp
+.pnp.js
+
+# Dossiers de build (Production)
+/dist
+/build
+/out
+
+# Fichiers de log / Erreurs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environnement et Secrets (TRÈS IMPORTANT de les ignorer)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Tests et Couverture
+/coverage
+
+# Configurations d'Éditeurs et d'IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Fichiers Système
+.DS_Store
+Thumbs.db
